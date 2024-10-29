@@ -1,4 +1,13 @@
-## Hi there 👋
+<p>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/>
+</p>
+
+[![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=grib0ed0v&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **grib0ed0v/grib0ed0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
