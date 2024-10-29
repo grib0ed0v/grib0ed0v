@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=grib0ed0v&show_icons=true&hide_border=true&hide_title=true" alt="grib0ed0v" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grib0ed0v&title_color=81A1C1&bg_color=ffffff" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=grib0ed0v&show_icons=true&hide_border=true&hide_title=true" alt="grib0ed0v" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grib0ed0v&title_color=81A1C1&bg_color=ffffff" />
 </p>
 <!--
 **grib0ed0v/grib0ed0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
